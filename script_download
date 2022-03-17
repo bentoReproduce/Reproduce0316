@@ -1,0 +1,6 @@
+scp -i client.pem ubuntu@52.90.93.88:/home/ubuntu/bento/experiments/LoadBalancer/output.txt /home/cyan/Desktop/output/client1_output.txt
+scp -i client.pem ubuntu@3.83.91.175:/home/ubuntu/bento/experiments/LoadBalancer/output.txt /home/cyan/Desktop/output/client2_output.txt
+scp -i client.pem ubuntu@3.83.161.238:/home/ubuntu/bento/experiments/LoadBalancer/output.txt /home/cyan/Desktop/output/client3_output.txt
+scp -i client.pem ubuntu@3.93.147.161:/home/ubuntu/bento/experiments/LoadBalancer/output.txt /home/cyan/Desktop/output/client4_output.txt
+scp -i client.pem ubuntu@34.204.50.140:/home/ubuntu/bento/experiments/LoadBalancer/output.txt /home/cyan/Desktop/output/client5_output.txt
+scp -i client.pem ubuntu@174.129.77.141:/home/ubuntu/bento/experiments/LoadBalancer/output.txt /home/cyan/Desktop/output/client6_output.txt
